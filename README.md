@@ -1,4 +1,4 @@
-# Awesome Open Source Games [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 438,708 | 🐛 70 | 📅 2026-01-28 with stars
+# Awesome Open Source Games [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 438,983 | 🐛 70 | 📅 2026-01-28 with stars
 
 <!-- Uncomment the awesome badge when the repository is added to awesome main list.
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
@@ -66,19 +66,19 @@ A selection of major game studios, publishers, etc. using GitHub:
 
 ### Boardgame
 
-* [Lichess](https://github.com/ornicar/lila) ⭐ 17,771 | 🐛 1,197 | 🌐 Scala | 📅 2026-02-20 - Free chess game using HTML5 & websockets built with Scala, Play 2.8, MongoDB and Elasticsearch.
+* [Lichess](https://github.com/ornicar/lila) ⭐ 17,776 | 🐛 1,201 | 🌐 Scala | 📅 2026-02-21 - Free chess game using HTML5 & websockets built with Scala, Play 2.8, MongoDB and Elasticsearch.
 * [3D Hartwing Chess Set](https://github.com/juliangarnier/3D-Hartwig-chess-set) ⭐ 533 | 🐛 20 | 🌐 JavaScript | 📅 2023-03-31 - 3D chess game done in HTML/CSS/JavaScript.
 * [Desperate Gods](https://github.com/David20321/FTJ) ⭐ 323 | 🐛 14 | 🌐 C# | 📅 2018-10-25 - Free online board game that was designed to be played just like a board game in real-life: no rules are enforced by the computer.
-* [c4](https://github.com/kenrick95/c4) ⭐ 277 | 🐛 0 | 🌐 TypeScript | 📅 2026-01-22 - Connect Four game where player is playing against an AI.
+* [c4](https://github.com/kenrick95/c4) ⭐ 278 | 🐛 0 | 🌐 TypeScript | 📅 2026-01-22 - Connect Four game where player is playing against an AI.
 * [Green Mahjong](https://github.com/danbeck/green-mahjong) ⭐ 99 | 🐛 2 | 🌐 JavaScript | 📅 2017-01-24 - Solitaire mahjong game done in HTML/CSS/JavaScript.
 * [Kriegspiel](https://github.com/binarymax/kriegspiel) ⭐ 27 | 🐛 9 | 🌐 JavaScript | 📅 2014-03-10 - The game of imperfect information, the Kriegspiel chess variant.
 
 ### Arcade
 
 * [Clumsy Bird](https://github.com/ellisonleao/clumsy-bird) ⚠️ Archived - Flappy Bird clone in JavaScript using MelonJavaScript.
-* [Ski Free](https://github.com/basicallydan/skifree.js) ⭐ 539 | 🐛 9 | 🌐 JavaScript | 📅 2022-06-02 - Controls a skier on a mountain slope, avoiding obstacles while racing against time or performing stunts for points, depending on the game mode.
+* [Ski Free](https://github.com/basicallydan/skifree.js) ⭐ 540 | 🐛 9 | 🌐 JavaScript | 📅 2026-02-20 - Controls a skier on a mountain slope, avoiding obstacles while racing against time or performing stunts for points, depending on the game mode.
 * [Mario 5 HTML](https://github.com/robertkleffner/marioHTML5) ⭐ 521 | 🐛 18 | 🌐 JavaScript | 📅 2022-12-06 - Infinite Mario in HTML5 JavaScript using Canvas and Audio elements.
-* [Asteroids](http://github.com/dmcinnes/HTML5-Asteroids) ⭐ 352 | 🐛 6 | 🌐 JavaScript | 📅 2024-04-19 - Pure JavaScript asteroids. Destroy asteroids ans saucers controlling a triangular ship rotating left and right.
+* [Asteroids](http://github.com/dmcinnes/HTML5-Asteroids) ⭐ 351 | 🐛 6 | 🌐 JavaScript | 📅 2024-04-19 - Pure JavaScript asteroids. Destroy asteroids ans saucers controlling a triangular ship rotating left and right.
 * [Emberwind](https://github.com/operasoftware/Emberwind) ⭐ 264 | 🐛 8 | 🌐 JavaScript | 📅 2012-06-14 - Fantasy game port of the indie platform game Emberwind.
 * [Super Mario Bros](https://github.com/martindrapeau/backbone-game-engine) ⭐ 215 | 🐛 4 | 🌐 JavaScript | 📅 2016-06-01 - Super Mario Bros level one written with Backbone Game Engine.
 * [Onslaught Arena](https://github.com/lostdecade/onslaught_arena) ⭐ 202 | 🐛 3 | 🌐 JavaScript | 📅 2017-04-04 - Fight off hordes of classic medieval monsters in this fast paced arcade shooter.
@@ -96,8 +96,8 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Jolly Jumper](https://github.com/shohan4556/jolly-jumper) ⚠️ Archived - Infinite jumping style game inspired by Doodle jump.
 * [Monster Wants Candy](https://github.com/EnclaveGames/Monster-Wants-Candy-demo) ⭐ 65 | 🐛 1 | 🌐 JavaScript | 📅 2015-06-16 - Monster Wants Candy demo is a simple HTML5 game created with Phaser 2.0.7.
 * [Hyperspace Garbage Collector](https://github.com/razh/game-off-2013) ⭐ 62 | 🐛 0 | 🌐 JavaScript | 📅 2013-12-02 - Guide N4n through the dangerous trash-heap caverns to reach the Primary Systems Core and restore compliance to the Trash.
+* [Avabranch](https://github.com/Zolmeister/avabranch) ⭐ 60 | 🐛 0 | 🌐 HTML | 📅 2020-05-11 - Get your Ava away from the blocks moving between them.
 * [I Spy A Ghost](https://github.com/OmarShehata/I-Spy-A-Ghost) ⭐ 60 | 🐛 2 | 🌐 JavaScript | 📅 2016-06-08 - An experimental p2p multiplayer game made in HTML5/Phaser using WebRTC.
-* [Avabranch](https://github.com/Zolmeister/avabranch) ⭐ 59 | 🐛 0 | 🌐 HTML | 📅 2020-05-11 - Get your Ava away from the blocks moving between them.
 * [Coil](https://github.com/leereilly/Coil) ⭐ 59 | 🐛 0 | 🌐 JavaScript | 📅 2012-11-30 - HTML5 canvas game where you defeat enemies by wrapping enemies in your trail.
 * [Mega Girl](https://github.com/ddionisio/game-off-2013) ⭐ 59 | 🐛 0 | 🌐 C# | 📅 2013-12-04 - The hyper-deluxed-super-mega software that beats back those malicious apps.
 * [Snake\_new](https://github.com/RabiRoshan/snake_game) ⭐ 59 | 🐛 2 | 📅 2023-03-29 - Classic nokia snake game using web.
@@ -138,12 +138,12 @@ A selection of major game studios, publishers, etc. using GitHub:
 ### FPS
 
 * [BananaBread](https://github.com/kripken/BananaBread) ⭐ 1,436 | 🐛 44 | 🌐 C++ | 📅 2022-05-31 - Port of the Cube 2/Sauerbraten 3D game engine/first person shooter to the web, compiling C++ and OpenGL to JavaScript and WebGL using Emscripten.
-* [Backdooms](https://github.com/Kuberwastaken/backdooms) ⭐ 615 | 🐛 2 | 🌐 HTML | 📅 2025-04-21 - Game inspired by DOOM 1993 and The Backrooms, small enough to be self contained inside a QR code.
+* [Backdooms](https://github.com/Kuberwastaken/backdooms) ⭐ 616 | 🐛 2 | 🌐 HTML | 📅 2025-04-21 - Game inspired by DOOM 1993 and The Backrooms, small enough to be self contained inside a QR code.
 * [Nazi Zombies Portable](https://nzp.gay) - Call of Duty: Zombies "de-make" powered by various enhanced forks of the Quake engine.
 
 ### RPG
 
-* [Diablo JavaScript](https://github.com/mitallast/diablo-js) ⭐ 988 | 🐛 14 | 🌐 Java | 📅 2022-10-11 - Isometric minimal-code style game at HTML5 canvas and JavaScript.
+* [Diablo JavaScript](https://github.com/mitallast/diablo-js) ⭐ 989 | 🐛 14 | 🌐 Java | 📅 2022-10-11 - Isometric minimal-code style game at HTML5 canvas and JavaScript.
 * [Room for Change](https://github.com/antionio/game-off-2013) ⭐ 143 | 🐛 1 | 🌐 Java | 📅 2017-04-09 - Randomly generated action RPG. You play as a chubby archeologist who is tasked to retrieve three sacred artifacts from the pyramid of the legendary Pharaohs.
 * [Roguish](https://github.com/CamHenlin/Roguish) ⭐ 99 | 🐛 4 | 🌐 HTML | 📅 2015-03-12 - RPG/Rogue-like game created in JavaScript.
 
@@ -168,19 +168,19 @@ A selection of major game studios, publishers, etc. using GitHub:
 
 ### Sandbox
 
-* [3d.city](https://github.com/lo-th/3d.city) ⭐ 1,645 | 🐛 38 | 🌐 JavaScript | 📅 2023-11-15 - Goal was to build a city in 3D to test the performance of WebGL and and Three.js.
+* [3d.city](https://github.com/lo-th/3d.city) ⭐ 1,646 | 🐛 38 | 🌐 JavaScript | 📅 2023-11-15 - Goal was to build a city in 3D to test the performance of WebGL and and Three.js.
 * [Cube Engine](https://github.com/Nurgak/Cube-engine) ⭐ 185 | 🐛 1 | 🌐 JavaScript | 📅 2023-03-25 - Resembles that of Minecraft, a popular voxel-type 3D game based on boxes.
 * [Blk Game](https://github.com/morozd/blk-game) ⭐ 50 | 🐛 0 | 🌐 JavaScript | 📅 2013-05-07 - Fully modifiable multiplayer voxel world in JS that can run efficiently in the browser.
 * [Sandboxels](https://sandboxels.r74n.com/) - Falling-sand experimentation game with over 500 materials to play with.
 
 ### Puzzle
 
-* [2048](https://github.com/gabrielecirulli/2048) ⭐ 13,345 | 🐛 131 | 🌐 JavaScript | 📅 2024-10-24 - Clone of 1024, based on Saming's 2048.
-* [Untrusted](https://github.com/AlexNisnevich/untrusted) ⭐ 4,649 | 🐛 48 | 🌐 JavaScript | 📅 2025-05-31 - Meta-JavaScript adventure game by Alex Nisnevich and Greg Shuflin.
-* [Hextris](https://github.com/Hextris/hextris) ⭐ 2,449 | 🐛 27 | 🌐 JavaScript | 📅 2023-05-13 - Addictive puzzle game inspired by Tetris.
+* [2048](https://github.com/gabrielecirulli/2048) ⭐ 13,349 | 🐛 131 | 🌐 JavaScript | 📅 2024-10-24 - Clone of 1024, based on Saming's 2048.
+* [Untrusted](https://github.com/AlexNisnevich/untrusted) ⭐ 4,647 | 🐛 48 | 🌐 JavaScript | 📅 2025-05-31 - Meta-JavaScript adventure game by Alex Nisnevich and Greg Shuflin.
+* [Hextris](https://github.com/Hextris/hextris) ⭐ 2,450 | 🐛 27 | 🌐 JavaScript | 📅 2023-05-13 - Addictive puzzle game inspired by Tetris.
 * [cube-composer](https://github.com/sharkdp/cube-composer) ⭐ 2,031 | 🐛 10 | 🌐 PureScript | 📅 2022-12-08 - A puzzle game inspired by functional programming.
 * [Blockrain.js](https://github.com/Aerolab/blockrain.js) ⭐ 983 | 🐛 11 | 🌐 JavaScript | 📅 2018-07-09 - Embed & play the classic game on your site. Simple as that.
-* [Astry](https://github.com/wwwtyro/Astray) ⭐ 584 | 🐛 13 | 🌐 JavaScript | 📅 2023-04-09 - WebGL maze game built with Three.js and Box2dWeb.
+* [Astry](https://github.com/wwwtyro/Astray) ⭐ 585 | 🐛 13 | 🌐 JavaScript | 📅 2023-04-09 - WebGL maze game built with Three.js and Box2dWeb.
 * [TransCube](https://github.com/jeroenverfallie/ggo13-transcube) ⭐ 230 | 🐛 6 | 🌐 JavaScript | 📅 2018-12-06 - 2d puzzle platformer based on the concept of transforming into different "blocks", with their unique properties, and making you way to the end of the level with the provided transformations.
 * [Swap](https://github.com/nmoroze/swap) ⭐ 160 | 🐛 0 | 🌐 JavaScript | 📅 2019-05-10 - New take on the classic tile-based puzzle game, where you change which character you're controlling to reach your goal.
 * [Pop Pop Win](https://github.com/dart-lang/pop-pop-win) ⭐ 155 | 🐛 7 | 🌐 Dart | 📅 2026-02-01 - Implementation of Minesweeper in Dart.
@@ -226,7 +226,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 
 ### Others
 
-* [Hauberk](https://github.com/munificent/hauberk) ⭐ 2,147 | 🐛 17 | 🌐 Dart | 📅 2026-02-14 - Hauberk is a roguelike, an ASCII-art based procedurally-generated dungeon crawl game. It's written in Dart and runs in your browser.
+* [Hauberk](https://github.com/munificent/hauberk) ⭐ 2,146 | 🐛 17 | 🌐 Dart | 📅 2026-02-14 - Hauberk is a roguelike, an ASCII-art based procedurally-generated dungeon crawl game. It's written in Dart and runs in your browser.
 * [Binb](https://github.com/lpinca/binb) ⭐ 305 | 🐛 0 | 🌐 JavaScript | 📅 2025-10-04 - Competitive, multiplayer, realtime, guess the song game.
 * [Psiral](https://github.com/petarov/game-off-2013) ⭐ 70 | 🐛 0 | 🌐 JavaScript | 📅 2016-11-14 - JavaScript/HTML5 game, GitHub Game Off 2 winner.
 * [Beast](https://github.com/dominikwilkowski/beast.js) ⭐ 58 | 🐛 0 | 🌐 Rust | 📅 2025-10-30 - An homage to the 1984 ASCII game "BEAST" from Dan Baker, Alan Brown, Mark Hamilton and Derrick Shadel written in node. You have to squash little ASCII beasts between pushable blocks but watch you to not be eaten by them.
@@ -244,15 +244,15 @@ A selection of major game studios, publishers, etc. using GitHub:
 
 ### Action
 
-* [Hypersomnia](https://github.com/TeamHypersomnia/Hypersomnia) ⭐ 1,468 | 🐛 14 | 🌐 C++ | 📅 2026-02-19 - Competitive top-down shooter with extreme dynamics and pixely nostalgia. Has a built-in map Editor.
+* [Hypersomnia](https://github.com/TeamHypersomnia/Hypersomnia) ⭐ 1,464 | 🐛 14 | 🌐 C++ | 📅 2026-02-19 - Competitive top-down shooter with extreme dynamics and pixely nostalgia. Has a built-in map Editor.
 * [OpenTomb](https://github.com/opentomb/OpenTomb) ⚠️ Archived - Open-source Tomb Raider 1-5 engine remake.
 * [OpenLiberty](https://github.com/FOSS-Supremacy/OpenLiberty) ⭐ 377 | 🐛 14 | 🌐 GDScript | 📅 2025-06-25 - An open-source reimplementation of Grand Theft Auto III on the Godot Engine.
 
 ### Arcade
 
-* [Teeworlds](https://github.com/teeworlds/teeworlds) ⭐ 2,584 | 🐛 355 | 🌐 C++ | 📅 2025-07-12 - Online multi-player platform 2D shooter.
+* [Teeworlds](https://github.com/teeworlds/teeworlds) ⭐ 2,586 | 🐛 355 | 🌐 C++ | 📅 2025-07-12 - Online multi-player platform 2D shooter.
 * [Taisei](https://github.com/laochailan/taisei) ⭐ 1,494 | 🐛 31 | 🌐 C | 📅 2026-02-19 - Fan-made, open Source clone of the Touhou series.
-* [C-Dogs SDL](https://github.com/cxong/cdogs-sdl) ⭐ 1,025 | 🐛 127 | 🌐 C | 📅 2026-02-14 - Overhead shoot-em-up port of the classic DOS game.
+* [C-Dogs SDL](https://github.com/cxong/cdogs-sdl) ⭐ 1,026 | 🐛 127 | 🌐 C | 📅 2026-02-14 - Overhead shoot-em-up port of the classic DOS game.
 * [Space Shooter](https://github.com/prodicus/spaceShooter) ⚠️ Archived - Cross platform, 2D space shooting game made using pygame.
 * [OpenLieroX](https://github.com/albertz/openlierox) ⭐ 284 | 🐛 217 | 🌐 C++ | 📅 2024-08-25 - Liero clone, like realtime Worms, or a 2D Quake.
 * [DynaDungeons](https://github.com/akien-mga/dynadungeons) ⭐ 236 | 🐛 15 | 🌐 GDScript | 📅 2024-04-24 - Bomberman clone using the awesome open source Godot game engine.
@@ -272,20 +272,20 @@ A selection of major game studios, publishers, etc. using GitHub:
 
 ### Rhythm
 
-* [osu!](https://github.com/ppy/osu) ⭐ 17,936 | 🐛 1,725 | 🌐 C# | 📅 2026-02-20 - Rhythm is just a *click* away!
+* [osu!](https://github.com/ppy/osu) ⭐ 17,942 | 🐛 1,725 | 🌐 C# | 📅 2026-02-20 - Rhythm is just a *click* away!
 
 ### FPS
 
-* [OpenLara](https://github.com/XProger/OpenLara) ⭐ 4,952 | 🐛 171 | 🌐 C | 📅 2025-11-24 - Tomb Raider open-source engine.
-* [Ioquake3](https://github.com/ioquake/ioq3) ⭐ 2,687 | 🐛 146 | 🌐 C | 📅 2026-02-12 - The free software FPS engine that can be used to play Quake 3, or make your own game.
-* [Freedoom](https://github.com/freedoom/freedoom) ⭐ 1,244 | 🐛 77 | 🌐 Python | 📅 2025-12-06 - Free software FPS based on the classic Doom engine.
-* [Openspades](https://github.com/yvt/openspades) ⭐ 1,210 | 🐛 248 | 🌐 C++ | 📅 2024-06-06 - Compatible client of Ace of Spades 0.75.
+* [OpenLara](https://github.com/XProger/OpenLara) ⭐ 4,954 | 🐛 171 | 🌐 C | 📅 2025-11-24 - Tomb Raider open-source engine.
+* [Ioquake3](https://github.com/ioquake/ioq3) ⭐ 2,687 | 🐛 147 | 🌐 C | 📅 2026-02-12 - The free software FPS engine that can be used to play Quake 3, or make your own game.
+* [Freedoom](https://github.com/freedoom/freedoom) ⭐ 1,245 | 🐛 77 | 🌐 Python | 📅 2025-12-06 - Free software FPS based on the classic Doom engine.
+* [Openspades](https://github.com/yvt/openspades) ⭐ 1,209 | 🐛 248 | 🌐 C++ | 📅 2024-06-06 - Compatible client of Ace of Spades 0.75.
 * [Unvanquished](https://github.com/Unvanquished/Unvanquished) ⭐ 1,080 | 🐛 671 | 🌐 C++ | 📅 2026-02-11 - Fast-paced, futuristic FPS with RTS elements.
-* [AssaultCube](https://github.com/assaultcube/AC) ⭐ 979 | 🐛 177 | 🌐 C | 📅 2026-02-20 - Total conversion of Wouter van Oortmerssen's FPS called Cube.
-* [Nazi Zombies Portable](https://github.com/nzp-team/nzportable) ⭐ 661 | 🐛 180 | 🌐 Shell | 📅 2026-02-16 - Call of Duty: Zombies "de-make" powered by various enhanced forks of the Quake engine.
+* [AssaultCube](https://github.com/assaultcube/AC) ⭐ 978 | 🐛 177 | 🌐 C | 📅 2026-02-20 - Total conversion of Wouter van Oortmerssen's FPS called Cube.
+* [Nazi Zombies Portable](https://github.com/nzp-team/nzportable) ⭐ 662 | 🐛 180 | 🌐 Shell | 📅 2026-02-16 - Call of Duty: Zombies "de-make" powered by various enhanced forks of the Quake engine.
 * [GlPortal](https://github.com/GlPortal/glPortal) ⭐ 377 | 🐛 17 | 🌐 C++ | 📅 2024-10-05 - A modern 3D game and engine with portals written in C++.
 * [Urban Terror](https://github.com/FrozenSand/UrbanTerror4) ⭐ 76 | 🐛 73 | 🌐 C | 📅 2018-08-17 - Free multiplayer first person shooter that will run on any Quake III Arena compatible engine.
-* [Darkest Hour](https://github.com/DarklightGames/DarkestHour) ⭐ 10 | 🐛 133 | 🌐 UnrealScript | 📅 2026-02-19 - World War 2 online multiplayer tactical shooter based on Red Orchestra: Ostfront.
+* [Darkest Hour](https://github.com/DarklightGames/DarkestHour) ⭐ 10 | 🐛 133 | 🌐 UnrealScript | 📅 2026-02-20 - World War 2 online multiplayer tactical shooter based on Red Orchestra: Ostfront.
 * [Red Eclipse](https://github.com/redeclipse) - Fun-filled new take on the first person arena shooter, featuring parkour, impulse boosts, and more.
 * [Warsow](https://github.com/Warsow) - Fast-paced FPS in a futuristic cartoonish world.
 * [Xonotic](https://xonotic.org/) - An addictive arena-style first person shooter with crisp movement and a wide array of weapons.
@@ -299,15 +299,15 @@ A selection of major game studios, publishers, etc. using GitHub:
 
 ### RPG
 
-* [Cataclysm: Dark Days Ahead](https://github.com/CleverRaven/Cataclysm-DDA) ⭐ 12,065 | 🐛 2,800 | 🌐 C++ | 📅 2026-02-20 - Roguelike set in a post-apocalyptic world.
-* [OpenMW](https://github.com/OpenMW/openmw) ⭐ 6,181 | 🐛 0 | 🌐 C++ | 📅 2026-02-18 - Reimplementation of the Morrowind game engine.
+* [Cataclysm: Dark Days Ahead](https://github.com/CleverRaven/Cataclysm-DDA) ⭐ 12,066 | 🐛 2,808 | 🌐 C++ | 📅 2026-02-21 - Roguelike set in a post-apocalyptic world.
+* [OpenMW](https://github.com/OpenMW/openmw) ⭐ 6,184 | 🐛 0 | 🌐 C++ | 📅 2026-02-18 - Reimplementation of the Morrowind game engine.
 * [NetHack](https://github.com/NetHack/NetHack) ⭐ 3,490 | 🐛 155 | 🌐 C | 📅 2026-02-18 - Single-player roguelike dungeon exploration game and one of the most popular games in its genre.
-* [Dungeon Crawl Stone Soup](https://github.com/crawl/crawl) ⭐ 2,776 | 🐛 510 | 🌐 C++ | 📅 2026-02-12 - Single-player roguelike dungeon exploration game with a larger focus on combat compared to other popular roguelikes.
+* [Dungeon Crawl Stone Soup](https://github.com/crawl/crawl) ⭐ 2,776 | 🐛 511 | 🌐 C++ | 📅 2026-02-21 - Single-player roguelike dungeon exploration game with a larger focus on combat compared to other popular roguelikes.
 * [Freeablo](https://github.com/wheybags/freeablo) ⭐ 2,169 | 🐛 63 | 🌐 C++ | 📅 2023-04-13 - Open-source implementation of the Diablo I engine.
 * [Angband](https://github.com/angband/angband) ⭐ 1,483 | 🐛 197 | 🌐 C | 📅 2026-02-17 - Single-player dungeon exploration game in the universe of JRR Tolkien.
-* [Arx Fatalis](https://github.com/arx/ArxLibertatis) ⭐ 1,038 | 🐛 68 | 🌐 C++ | 📅 2024-08-22 - Cross-platform port of Arx Fatalis, a first-person role-playing game.
+* [Arx Fatalis](https://github.com/arx/ArxLibertatis) ⭐ 1,037 | 🐛 68 | 🌐 C++ | 📅 2024-08-22 - Cross-platform port of Arx Fatalis, a first-person role-playing game.
 * [Cendric](https://github.com/tizian/Cendric2) ⭐ 306 | 🐛 7 | 🌐 C | 📅 2021-08-02 - Platformer-RPG in a fantasy setting with puzzle elements.
-* [Valyria Tear](https://github.com/Bertram25/ValyriaTear) ⭐ 248 | 🐛 36 | 🌐 Lua | 📅 2022-01-02 - Single-player medieval-fantasy 2D J-RPG.
+* [Valyria Tear](https://github.com/Bertram25/ValyriaTear) ⭐ 249 | 🐛 36 | 🌐 Lua | 📅 2022-01-02 - Single-player medieval-fantasy 2D J-RPG.
 * [The Legend of Zelda: Mystery of Solarus DX](https://github.com/christopho/zsdx) ⚠️ Archived - Sequel to The Legend of Zelda: A Link to the Past released on the SNES.
 * [Egoboo](https://github.com/egoboo/egoboo) ⭐ 124 | 🐛 19 | 🌐 C++ | 📅 2025-03-02 - Cool 3D dungeon crawling game in the spirit of NetHack.
 * [Flare RPG](https://github.com/clintbellanger/flare-game) ⭐ 85 | 🐛 0 | 🌐 Python | 📅 2018-09-17 - Fantasy action RPG game with its own engine.
@@ -316,15 +316,15 @@ A selection of major game studios, publishers, etc. using GitHub:
 
 ### Platform
 
-* [SuperTux](https://github.com/SuperTux/supertux) ⭐ 2,867 | 🐛 320 | 🌐 C++ | 📅 2026-02-20 - Classic 2D jump'n'run sidescroller with Tux.
+* [SuperTux](https://github.com/SuperTux/supertux) ⭐ 2,870 | 🐛 321 | 🌐 C++ | 📅 2026-02-20 - Classic 2D jump'n'run sidescroller with Tux.
 * [Mario-Level-1](https://github.com/justinmeister/Mario-Level-1) ⭐ 2,207 | 🐛 31 | 🌐 Python | 📅 2023-04-24 - First level of Super Mario Bros made with Python and Pygame.
 * [Journey to the Center of Hawkthorne](https://github.com/hawkthorne/hawkthorne-journey) ⭐ 1,143 | 🐛 27 | 🌐 Lua | 📅 2024-11-26 - This 2d platformer is based on Community's Digital Estate Planning episodebuilt using the LÖVE game engine.
-* [DDraceNetwork](https://github.com/ddnet/ddnet) ⭐ 746 | 🐛 925 | 🌐 C++ | 📅 2026-02-20 - Cooperative online precision platformer with thousands of maps and global ranks.
+* [DDraceNetwork](https://github.com/ddnet/ddnet) ⭐ 746 | 🐛 930 | 🌐 C++ | 📅 2026-02-20 - Cooperative online precision platformer with thousands of maps and global ranks.
 * [Frogatto](https://github.com/frogatto/frogatto) ⭐ 665 | 🐛 165 | 🌐 Ruby | 📅 2025-11-20 - Action-adventure game, starring a certain quixotic frog.
 * [Gish](https://github.com/blinry/gish) ⭐ 345 | 🐛 8 | 🌐 C | 📅 2017-01-12 - Award-winning physics platformer.
 * [Super Bombinhas](https://github.com/victords/super-bombinhas) ⭐ 310 | 🐛 1 | 🌐 Ruby | 📅 2025-05-09 - Retro platformer game.
-* [AAAAXY](https://github.com/divVerent/aaaaxy) ⭐ 276 | 🐛 10 | 🌐 Go | 📅 2026-02-19 - Nonlinear 2D puzzle platformer taking place in impossible spaces.
-* [The Secret Chronicles of Dr. M.](https://github.com/Secretchronicles/TSC) ⭐ 220 | 🐛 197 | 🌐 C++ | 📅 2025-03-09 - A 2D platform game in classic style.
+* [AAAAXY](https://github.com/divVerent/aaaaxy) ⭐ 276 | 🐛 10 | 🌐 Go | 📅 2026-02-20 - Nonlinear 2D puzzle platformer taking place in impossible spaces.
+* [The Secret Chronicles of Dr. M.](https://github.com/Secretchronicles/TSC) ⭐ 220 | 🐛 196 | 🌐 C++ | 📅 2026-02-20 - A 2D platform game in classic style.
 * [Commander Genius](https://github.com/gerstrong/Commander-Genius) ⭐ 216 | 🐛 21 | 🌐 C++ | 📅 2026-02-15 - Commander Keen compatible clone.
 * [The Legend of Edgar](https://github.com/riksweeney/edgar) ⭐ 133 | 🐛 26 | 🌐 C | 📅 2026-02-09 - 2D platform game with a persistent world.
 * [HFT Mario Party](https://github.com/amiruqdah/mario-party) ⭐ 73 | 🐛 4 | 🌐 C# | 📅 2015-10-31 - A remixed local multiplayer reimagining of the original Mario      Bros.
@@ -336,11 +336,11 @@ A selection of major game studios, publishers, etc. using GitHub:
 
 ### Puzzle/card/board
 
-* [PokerTH](https://github.com/pokerth/pokerth) ⭐ 594 | 🐛 49 | 🌐 C++ | 📅 2026-02-20 - Implementation of Texas Hold'em supporting (online) multiplayer and botplay.
+* [PokerTH](https://github.com/pokerth/pokerth) ⭐ 596 | 🐛 49 | 🌐 C++ | 📅 2026-02-21 - Implementation of Texas Hold'em supporting (online) multiplayer and botplay.
 * [Nudoku](https://github.com/jubalh/nudoku) ⭐ 363 | 🐛 3 | 🌐 C | 📅 2026-01-20 - Ncurses based CLI sudoku game.
 * [2048-cli](https://github.com/Tiehuis/2048-cli) ⚠️ Archived - CLI version of the game 2048 for your Linux terminal.
 * [2048-in-terminal](https://github.com/alewmoose/2048-in-terminal) ⭐ 159 | 🐛 2 | 🌐 C | 📅 2023-04-05 - CLI version of the game 2048 made right.
-* [Minilens](https://github.com/KOBUGE-Games/minilens) ⭐ 136 | 🐛 17 | 🌐 GDScript | 📅 2018-07-16 - Cute puzzle platformer starring a cleaning robot on post-apocalyptic Earth.
+* [Minilens](https://github.com/KOBUGE-Games/minilens) ⭐ 137 | 🐛 17 | 🌐 GDScript | 📅 2018-07-16 - Cute puzzle platformer starring a cleaning robot on post-apocalyptic Earth.
 * [Dominion](https://github.com/paulbatum/Dominion) ⭐ 69 | 🐛 0 | 🌐 C# | 📅 2011-06-01 - C# implementation of Dominion, a board/card game.
 * [Wizznic](https://github.com/DusteDdk/Wizznic) ⭐ 42 | 🐛 1 | 🌐 C | 📅 2021-04-25 - Most awesome puzzle game.
 * [Castles of Dr. Creep](https://github.com/segrax/DrCreep) ⭐ 32 | 🐛 0 | 🌐 C++ | 📅 2022-03-18 - The Castles of Dr. Creep.
@@ -351,8 +351,8 @@ A selection of major game studios, publishers, etc. using GitHub:
 
 ### Racing
 
-* [SuperTuxKart](https://github.com/supertuxkart/stk-code) ⭐ 5,104 | 🐛 505 | 🌐 C++ | 📅 2026-02-18 - Free 3D kart racing game featuring open source mascots.
-* [Stunt Rally](https://github.com/stuntrally/stuntrally) ⭐ 640 | 🐛 24 | 🌐 C++ | 📅 2024-08-13 - Rally game with Track Editor, based on VDrift and OGRE.
+* [SuperTuxKart](https://github.com/supertuxkart/stk-code) ⭐ 5,104 | 🐛 506 | 🌐 C++ | 📅 2026-02-18 - Free 3D kart racing game featuring open source mascots.
+* [Stunt Rally](https://github.com/stuntrally/stuntrally) ⭐ 639 | 🐛 24 | 🌐 C++ | 📅 2024-08-13 - Rally game with Track Editor, based on VDrift and OGRE.
 
 ### Programming
 
@@ -360,14 +360,14 @@ A selection of major game studios, publishers, etc. using GitHub:
 
 ### Sandbox
 
-* [Minetest](https://github.com/minetest/minetest) ⭐ 12,341 | 🐛 1,414 | 🌐 C++ | 📅 2026-02-19 - Infinite-world block sandbox game with survival and crafting.
-* [Craft](https://github.com/fogleman/Craft) ⭐ 10,952 | 🐛 126 | 🌐 C | 📅 2024-04-03 - Simple Minecraft clone written in C using modern OpenGL.
-* [Endless Sky](https://github.com/endless-sky/endless-sky) ⭐ 7,143 | 🐛 886 | 🌐 C++ | 📅 2026-02-16 - Space trading and combat game similar to the classic Escape Velocity series.
-* [Minecraft](https://github.com/fogleman/Minecraft) ⭐ 5,403 | 🐛 86 | 🌐 Python | 📅 2023-06-10 - Simple Minecraft-inspired demo written in [Python](https://www.python.org/) and [Pyglet](http://www.pyglet.org/).
-* [The Powder Toy](https://github.com/simtr/The-Powder-Toy) ⭐ 5,034 | 🐛 49 | 🌐 C++ | 📅 2026-02-04 - Falling-sand physics sandbox game.
+* [Minetest](https://github.com/minetest/minetest) ⭐ 12,345 | 🐛 1,417 | 🌐 C++ | 📅 2026-02-19 - Infinite-world block sandbox game with survival and crafting.
+* [Craft](https://github.com/fogleman/Craft) ⭐ 10,954 | 🐛 126 | 🌐 C | 📅 2024-04-03 - Simple Minecraft clone written in C using modern OpenGL.
+* [Endless Sky](https://github.com/endless-sky/endless-sky) ⭐ 7,146 | 🐛 885 | 🌐 C++ | 📅 2026-02-20 - Space trading and combat game similar to the classic Escape Velocity series.
+* [Minecraft](https://github.com/fogleman/Minecraft) ⭐ 5,403 | 🐛 87 | 🌐 Python | 📅 2023-06-10 - Simple Minecraft-inspired demo written in [Python](https://www.python.org/) and [Pyglet](http://www.pyglet.org/).
+* [The Powder Toy](https://github.com/simtr/The-Powder-Toy) ⭐ 5,035 | 🐛 49 | 🌐 C++ | 📅 2026-02-04 - Falling-sand physics sandbox game.
 * [Terasology](https://github.com/MovingBlocks/Terasology) ⭐ 3,834 | 🐛 477 | 🌐 Java | 📅 2026-02-11 - Voxel world game engine inspired by Minecraft and others with fancy graphic effects and a heavy focus on extensibility.
 * [Space Engineers](https://github.com/KeenSoftwareHouse/SpaceEngineers) ⚠️ Archived - Space Engineers is a voxel-based sandbox game set in an asteroid field in space.
-* [Rigs of Rods](https://github.com/RigsOfRods/rigs-of-rods) ⭐ 1,157 | 🐛 228 | 🌐 C++ | 📅 2026-01-18 - Soft-Body physics simulator for vehicles and more.
+* [Rigs of Rods](https://github.com/RigsOfRods/rigs-of-rods) ⭐ 1,162 | 🐛 228 | 🌐 C++ | 📅 2026-01-18 - Soft-Body physics simulator for vehicles and more.
 * [Freeminer](https://github.com/freeminer/freeminer) ⭐ 455 | 🐛 65 | 🌐 C++ | 📅 2026-02-14 - Sandbox game inspired by Minecraft.
 * [Manic Digger](https://github.com/manicdigger/manicdigger) ⭐ 390 | 🐛 46 | 🌐 C# | 📅 2024-09-03 - A multiplayer block-building voxel game, Minecraft clone.
 * [Pycraft](https://github.com/itsapi/pycraft) ⭐ 204 | 🐛 37 | 🌐 Python | 📅 2023-12-04 - A Minecraft-inspired game for the terminal.
@@ -380,42 +380,42 @@ A selection of major game studios, publishers, etc. using GitHub:
 
 ### Strategy
 
-* [OpenRA](https://github.com/OpenRA/OpenRA) ⭐ 16,445 | 🐛 1,560 | 🌐 C# | 📅 2026-02-17 - Open-source implementation of the Red Alert engine using .NET/mono and OpenGL. Runs on Windows, Linux and macOS.
-* [OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) ⭐ 15,210 | 🐛 1,622 | 🌐 C++ | 📅 2026-02-19 - Open source recreation of Rollercoaster Tycoon 2.
-* [Openage](https://github.com/SFTtech/openage) ⭐ 14,098 | 🐛 212 | 🌐 Python | 📅 2025-06-14 - Clone of the Age of Empires II engine.
-* [OpenTTD](https://github.com/OpenTTD/OpenTTD) ⭐ 7,607 | 🐛 363 | 🌐 C++ | 📅 2026-02-19 - OpenTTD is a transport simulation game based upon the popular game Transport Tycoon Deluxe, written by Chris Sawyer.
-* [The Battle for Wesnoth](https://github.com/wesnoth/wesnoth) ⭐ 6,450 | 🐛 1,443 | 🌐 C++ | 📅 2026-02-20 - Turn-based strategy game with a high fantasy theme.
-* [CorsixTH](https://github.com/CorsixTH/CorsixTH) ⭐ 4,379 | 🐛 245 | 🌐 Lua | 📅 2026-02-19 - Clone of Theme Hospital.
-* [Warzone 2100](https://github.com/Warzone2100/warzone2100) ⭐ 3,689 | 🐛 553 | 🌐 C++ | 📅 2026-02-19 - Postnuclear realtime strategy.
+* [OpenRA](https://github.com/OpenRA/OpenRA) ⭐ 16,447 | 🐛 1,560 | 🌐 C# | 📅 2026-02-17 - Open-source implementation of the Red Alert engine using .NET/mono and OpenGL. Runs on Windows, Linux and macOS.
+* [OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) ⭐ 15,213 | 🐛 1,621 | 🌐 C++ | 📅 2026-02-20 - Open source recreation of Rollercoaster Tycoon 2.
+* [Openage](https://github.com/SFTtech/openage) ⭐ 14,099 | 🐛 212 | 🌐 Python | 📅 2025-06-14 - Clone of the Age of Empires II engine.
+* [OpenTTD](https://github.com/OpenTTD/OpenTTD) ⭐ 7,612 | 🐛 366 | 🌐 C++ | 📅 2026-02-20 - OpenTTD is a transport simulation game based upon the popular game Transport Tycoon Deluxe, written by Chris Sawyer.
+* [The Battle for Wesnoth](https://github.com/wesnoth/wesnoth) ⭐ 6,451 | 🐛 1,445 | 🌐 C++ | 📅 2026-02-20 - Turn-based strategy game with a high fantasy theme.
+* [CorsixTH](https://github.com/CorsixTH/CorsixTH) ⭐ 4,379 | 🐛 244 | 🌐 Lua | 📅 2026-02-20 - Clone of Theme Hospital.
+* [Warzone 2100](https://github.com/Warzone2100/warzone2100) ⭐ 3,690 | 🐛 554 | 🌐 C++ | 📅 2026-02-19 - Postnuclear realtime strategy.
 * [0 A.D.](https://github.com/0ad/0ad) ⚠️ Archived - 3D RTS similar to Age of Empires II.
-* [OpenXcom](https://github.com/SupSuper/OpenXcom) ⭐ 2,121 | 🐛 60 | 🌐 C++ | 📅 2026-02-04 - Clone of the original X-COM.
-* [Pioneer](https://github.com/pioneerspacesim/pioneer) ⭐ 1,821 | 🐛 334 | 🌐 C++ | 📅 2026-02-19 - Game of lonely space adventure.
+* [OpenXcom](https://github.com/SupSuper/OpenXcom) ⭐ 2,123 | 🐛 60 | 🌐 C++ | 📅 2026-02-04 - Clone of the original X-COM.
+* [Pioneer](https://github.com/pioneerspacesim/pioneer) ⭐ 1,820 | 🐛 334 | 🌐 C++ | 📅 2026-02-19 - Game of lonely space adventure.
 * [Colobot](https://github.com/colobot/colobot) ⭐ 1,212 | 🐛 357 | 🌐 C++ | 📅 2026-01-05 - A real-time strategy game with programmable bots.
 * [Tanks of Freedom](https://github.com/w84death/Tanks-of-Freedom) ⭐ 1,183 | 🐛 28 | 🌐 GDScript | 📅 2025-02-03 - Turn-based strategy game in isometric pixel-art style.
 * [Micropolis](https://github.com/SimHacker/micropolis) ⭐ 1,033 | 🐛 71 | 🌐 C | 📅 2026-02-10 - City-building game based on the original code for SimCity.
-* [KeeperRL](https://github.com/miki151/keeperrl) ⭐ 956 | 🐛 715 | 🌐 C++ | 📅 2025-10-27 - Roguelike dungeon builder inspired by Dwarf Fortress.
+* [KeeperRL](https://github.com/miki151/keeperrl) ⭐ 957 | 🐛 715 | 🌐 C++ | 📅 2025-10-27 - Roguelike dungeon builder inspired by Dwarf Fortress.
 * [Zero-K](https://github.com/ZeroK-RTS/Zero-K) ⭐ 788 | 🐛 1,200 | 🌐 Lua | 📅 2026-02-07 - Open source RTS game with physical projectiles and smart units.
 * [OpenFodder](https://github.com/OpenFodder/openfodder) ⭐ 569 | 🐛 14 | 🌐 C++ | 📅 2026-02-19 - Open-source implementation of Cannon Fodder.
-* [Hedgewars](https://github.com/hedgewars/hw) ⭐ 539 | 🐛 3 | 🌐 Lua | 📅 2026-02-17 - A turn based strategy, artillery, action and comedy game.
+* [Hedgewars](https://github.com/hedgewars/hw) ⭐ 541 | 🐛 3 | 🌐 Lua | 📅 2026-02-20 - A turn based strategy, artillery, action and comedy game.
 * [OpenDungeons](https://github.com/OpenDungeons/OpenDungeons) ⭐ 490 | 🐛 144 | 🌐 C++ | 📅 2025-10-03 - Open source game inspired by Dungeon Keeper - Dark, damp and dangerous.
-* [Wargus](https://github.com/Wargus/wargus) ⭐ 410 | 🐛 68 | 🌐 C | 📅 2025-12-15 - Wargus is a Warcraft2 Mod that allows you to play Warcraft2 with the Stratagus engine.
-* [MegaGlest](https://github.com/MegaGlest/megaglest-source) ⭐ 393 | 🐛 65 | 🌐 C++ | 📅 2025-12-15 - MegaGlest real-time strategy game engine (cross-platform, 3-d).
+* [Wargus](https://github.com/Wargus/wargus) ⭐ 411 | 🐛 68 | 🌐 C | 📅 2025-12-15 - Wargus is a Warcraft2 Mod that allows you to play Warcraft2 with the Stratagus engine.
+* [MegaGlest](https://github.com/MegaGlest/megaglest-source) ⭐ 392 | 🐛 65 | 🌐 C++ | 📅 2025-12-15 - MegaGlest real-time strategy game engine (cross-platform, 3-d).
 * [KaM Remake](https://github.com/Kromster80/kam_remake) ⚠️ Archived - RTS game remake of “Knights and Merchants”  written in Delphi from scratch.
 * [Curse of War](https://github.com/a-nikolaev/curseofwar) ⭐ 349 | 🐛 14 | 🌐 C | 📅 2024-05-13 - Fast-paced action strategy game with ncurses and SDL frontends.
 * [Wyrmsun](https://github.com/andrettin/wyrmsun) ⭐ 327 | 🐛 34 | 🌐 Lua | 📅 2025-04-17 - Strategy game based on history, mythology and fiction.
-* [Romanov's Vengeance](https://github.com/MustaphaTR/Romanovs-Vengeance) ⭐ 320 | 🐛 21 | 🌐 C# | 📅 2025-07-26 - Remake of C\&C Red Alert 2 based on [the OpenRA engine](https://github.com/OpenRA/OpenRA) ⭐ 16,445 | 🐛 1,560 | 🌐 C# | 📅 2026-02-17
+* [Romanov's Vengeance](https://github.com/MustaphaTR/Romanovs-Vengeance) ⭐ 320 | 🐛 22 | 🌐 C# | 📅 2025-07-26 - Remake of C\&C Red Alert 2 based on [the OpenRA engine](https://github.com/OpenRA/OpenRA) ⭐ 16,447 | 🐛 1,560 | 🌐 C# | 📅 2026-02-17
 * [Caesaria](https://github.com/dalerank/caesaria-game) ⭐ 283 | 🐛 2 | 🌐 C | 📅 2017-09-09 - Remake of the popular citybuilder and economic sim Caesar III.
 * [Seven Kingdoms: Ancient Adversaries](https://github.com/the3dfxdude/7kaa) ⚠️ Archived - Classic RTS game liberated in 2009.
-* [Race into Space](https://github.com/raceintospace/raceintospace) ⭐ 202 | 🐛 133 | 🌐 C++ | 📅 2026-02-12 - Turn-based space race strategy game originally by Interplay.
+* [Race into Space](https://github.com/raceintospace/raceintospace) ⭐ 202 | 🐛 133 | 🌐 C++ | 📅 2026-02-20 - Turn-based space race strategy game originally by Interplay.
 * [Voxeliq](https://github.com/raistlinthewiz/voxeliq) ⭐ 165 | 🐛 31 | 🌐 C# | 📅 2020-02-13 - Block-based game engine implementation developed with C#.
-* [OpenKrush](https://github.com/IceReaper/OpenKrush) ⭐ 116 | 🐛 30 | 🌐 C# | 📅 2025-11-17 - Remake of KKnD (Krush, Kill 'n' Destroy) and KKnD2 based on [the OpenRA engine](https://github.com/OpenRA/OpenRA) ⭐ 16,445 | 🐛 1,560 | 🌐 C# | 📅 2026-02-17
-* [OpenSA](https://github.com/Dzierzan/OpenSA) ⭐ 114 | 🐛 2 | 🌐 C# | 📅 2023-10-01 - Remake of Swarm Assault based on [the OpenRA engine](https://github.com/OpenRA/OpenRA) ⭐ 16,445 | 🐛 1,560 | 🌐 C# | 📅 2026-02-17
+* [OpenKrush](https://github.com/IceReaper/OpenKrush) ⭐ 116 | 🐛 30 | 🌐 C# | 📅 2025-11-17 - Remake of KKnD (Krush, Kill 'n' Destroy) and KKnD2 based on [the OpenRA engine](https://github.com/OpenRA/OpenRA) ⭐ 16,447 | 🐛 1,560 | 🌐 C# | 📅 2026-02-17
+* [OpenSA](https://github.com/Dzierzan/OpenSA) ⭐ 114 | 🐛 2 | 🌐 C# | 📅 2023-10-01 - Remake of Swarm Assault based on [the OpenRA engine](https://github.com/OpenRA/OpenRA) ⭐ 16,447 | 🐛 1,560 | 🌐 C# | 📅 2026-02-17
 * [Pax Britannica](https://github.com/henkboom/pax-britannica) ⭐ 97 | 🐛 1 | 🌐 Lua | 📅 2011-05-14 - Underwater one-button real-time strategy game.
 * [Last Colony](https://github.com/adityaravishankar/last-colony) ⭐ 91 | 🐛 2 | 🌐 JavaScript | 📅 2013-06-16 - RTS game with both a single player campaign mode as well as a multiplayer mode, created entirely in HTML5 and JavaScript.
-* [Shattered Paradise](https://github.com/ABrandau/Shattered-Paradise-SDK) ⭐ 80 | 🐛 9 | 🌐 C# | 📅 2025-09-27 - Remake of C\&C Tiberian Sun based on [the OpenRA engine](https://github.com/OpenRA/OpenRA) ⭐ 16,445 | 🐛 1,560 | 🌐 C# | 📅 2026-02-17
-* [Pikifen](https://github.com/Espyo/Pikifen) ⭐ 73 | 🐛 3 | 🌐 C++ | 📅 2026-02-19 - Fan-made Pikmin-based engine, built with flexibility in mind.
+* [Shattered Paradise](https://github.com/ABrandau/Shattered-Paradise-SDK) ⭐ 80 | 🐛 9 | 🌐 C# | 📅 2025-09-27 - Remake of C\&C Tiberian Sun based on [the OpenRA engine](https://github.com/OpenRA/OpenRA) ⭐ 16,447 | 🐛 1,560 | 🌐 C# | 📅 2026-02-17
+* [Pikifen](https://github.com/Espyo/Pikifen) ⭐ 73 | 🐛 3 | 🌐 C++ | 📅 2026-02-20 - Fan-made Pikmin-based engine, built with flexibility in mind.
 * [Polly-B-Gone](https://github.com/mbostock/polly-b-gone) ⭐ 64 | 🐛 2 | 🌐 C++ | 📅 2020-06-06 - Physics platform game about a plucky wheeled robot named Polly.
-* [OpenE2140](https://github.com/OpenE2140/OpenE2140) ⭐ 60 | 🐛 109 | 🌐 C# | 📅 2026-02-16 - Remake of Earth 2140 based on [the OpenRA engine](https://github.com/OpenRA/OpenRA) ⭐ 16,445 | 🐛 1,560 | 🌐 C# | 📅 2026-02-17
+* [OpenE2140](https://github.com/OpenE2140/OpenE2140) ⭐ 60 | 🐛 109 | 🌐 C# | 📅 2026-02-16 - Remake of Earth 2140 based on [the OpenRA engine](https://github.com/OpenRA/OpenRA) ⭐ 16,447 | 🐛 1,560 | 🌐 C# | 📅 2026-02-17
 * [Source of Tales](https://github.com/tales/sourceoftales) ⚠️ Archived - Entry in the Liberated Pixel Cup 2012.
 * [Harris](https://github.com/ec429/harris) ⭐ 28 | 🐛 3 | 🌐 C | 📅 2025-07-12 - Strategy game based around the actions of RAF Bomber Command in the Second World War.
 * [PCOTM (Phone Case of the Monster)](https://github.com/jwoertink/pcotm) ⭐ 7 | 🐛 1 | 🌐 Ruby | 📅 2013-03-15 - Ruby game, where you play as a phone-collecting monster.
@@ -443,7 +443,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 
 * [Canabalt](https://github.com/ericjohnson/canabalt-ios) ⭐ 1,587 | 🐛 6 | 🌐 Objective-C | 📅 2011-08-20 - Release of Canabalt for iOS.
 * [Doom](https://github.com/id-Software/DOOM-iOS) ⭐ 826 | 🐛 4 | 🌐 C | 📅 2023-01-12 - Doom Classic for iOS.
-* [Wolfenstein 3D](https://github.com/id-Software/Wolf3D-iOS) ⭐ 533 | 🐛 1 | 🌐 C | 📅 2022-10-14 - Wolfenstein 3D for iOS Source Release.
+* [Wolfenstein 3D](https://github.com/id-Software/Wolf3D-iOS) ⭐ 534 | 🐛 1 | 🌐 C | 📅 2022-10-14 - Wolfenstein 3D for iOS Source Release.
 * [Gorillas](https://github.com/Lyndir/Gorillas) ⭐ 249 | 🐛 0 | 🌐 Objective-C | 📅 2014-05-22 - Iphone port of the popular old QBasic game.
 * [Bridges](https://github.com/zgrossbart/bridges) ⭐ 179 | 🐛 0 | 🌐 Objective-C | 📅 2023-11-22 - Puzzle game with bridges, houses, tolls, and subways for iOS.
 * [Lumio](https://github.com/joannecdyer/lumio) ⭐ 176 | 🐛 3 | 🌐 Objective-C | 📅 2016-06-07 - Puzzle game for iOS developed using Cocos2D. Available free on the App Store.
@@ -460,15 +460,15 @@ A selection of major game studios, publishers, etc. using GitHub:
 
 ## Just The Source
 
-* [Prince of Persia](https://github.com/jmechner/Prince-of-Persia-Apple-II) ⭐ 6,735 | 🐛 6 | 🌐 Assembly | 📅 2024-09-27 - Source code for the original Prince of Persia game that was written on the Apple II, in 6502 assembly language, between 1985-89.
+* [Prince of Persia](https://github.com/jmechner/Prince-of-Persia-Apple-II) ⭐ 6,736 | 🐛 6 | 🌐 Assembly | 📅 2024-09-27 - Source code for the original Prince of Persia game that was written on the Apple II, in 6502 assembly language, between 1985-89.
 * [Doom 3](https://github.com/TTimo/doom3.gpl) ⭐ 4,616 | 🐛 3 | 🌐 C++ | 📅 2022-05-17 - Doom 3 GPL source code release.
 * [MaNGOS](https://github.com/mangos/mangos) ⭐ 3,101 | 🐛 2 | 📅 2025-02-12 - Full featured World of Warcraft server.
-* [Descent 3](https://github.com/DescentDevelopers/Descent3) ⭐ 2,980 | 🐛 44 | 🌐 C++ | 📅 2026-01-21 - Pilot a fighter in a six-degree-of-freedom shooter across underground and surface environments.
-* [OpenJK](https://github.com/JACoders/OpenJK) ⭐ 2,174 | 🐛 284 | 🌐 C++ | 📅 2025-12-07 - Community maintained fork of Jedi Academy and Jedi Outcast development.
+* [Descent 3](https://github.com/DescentDevelopers/Descent3) ⭐ 2,983 | 🐛 44 | 🌐 C++ | 📅 2026-01-21 - Pilot a fighter in a six-degree-of-freedom shooter across underground and surface environments.
+* [OpenJK](https://github.com/JACoders/OpenJK) ⭐ 2,173 | 🐛 284 | 🌐 C++ | 📅 2025-12-07 - Community maintained fork of Jedi Academy and Jedi Outcast development.
 * [Rogue Legacy](https://github.com/flibitijibibo/RogueLegacy1/) ⭐ 1,895 | 🐛 3 | 🌐 C# | 📅 2025-04-07 - Source code for Rogue Legacy 1.
 * [System Shock](https://github.com/NightDiveStudios/shockmac) ⭐ 1,457 | 🐛 8 | 🌐 C | 📅 2018-08-03 - Source code for original System Shock game (PowerMac version), more readable fork available [here](https://github.com/ToxicFrog/shockmac) ⭐ 35 | 🐛 0 | 🌐 C | 📅 2018-04-05.
 * [Jedi Academy](https://github.com/grayj/Jedi-Academy) ⭐ 504 | 🐛 0 | 🌐 C++ | 📅 2013-04-04 - Jedi Academy source only, mirror of SourceForge from Raven Software.
-* [Aquaria](https://github.com/AquariaOSE/Aquaria) ⭐ 315 | 🐛 36 | 🌐 C | 📅 2026-01-10 - Breath-taking underwater fantasy game. Winner of the Grand Prize at the 2007 Independent Games Festival.
+* [Aquaria](https://github.com/AquariaOSE/Aquaria) ⭐ 315 | 🐛 38 | 🌐 C | 📅 2026-01-10 - Breath-taking underwater fantasy game. Winner of the Grand Prize at the 2007 Independent Games Festival.
 * [Jedi Outcast](https://github.com/grayj/Jedi-Outcast) ⭐ 284 | 🐛 0 | 🌐 C++ | 📅 2013-04-04 - Jedi Outcast source only, mirror of SourceForge from Raven Software.
 * [Miner Wars 2081](https://github.com/KeenSoftwareHouse/Miner-Wars-2081) ⭐ 258 | 🐛 1 | 🌐 C# | 📅 2013-10-28 - For modders of Miner Wars 2081, a 6DOF action-survival space-shooter simulation-game set in the year 2081.
 * [UFO RUN](https://github.com/Nextpeer/Nextpeer-UFORUN) ⭐ 64 | 🐛 0 | 🌐 C++ | 📅 2015-09-21 - Real time multiplayer with Nextpeer.
@@ -476,53 +476,53 @@ A selection of major game studios, publishers, etc. using GitHub:
 
 ## Frameworks/Engines/Libraries
 
-* [Three.js](https://github.com/mrdoob/three.js) ⭐ 110,984 | 🐛 607 | 🌐 JavaScript | 📅 2026-02-19 - JavaScript 3D library used in many browser games.
-* [Godot](https://github.com/okamstudio/godot) ⭐ 106,859 | 🐛 17,604 | 🌐 C++ | 📅 2026-02-20 - Fully featured, MIT licensed, game engine. It focuses on having great tools, and a visual oriented workflow that can export to PC, Mobile and Web platforms with no hassle. The editor, language and APIs are feature rich, yet simple to learn, allowing you to become productive in a matter of hours.
-* [pixi.js](https://github.com/GoodBoyDigital/pixi.js) ⭐ 46,621 | 🐛 317 | 🌐 TypeScript | 📅 2026-02-13 - Super fast HTML 5 2D rendering engine that uses webGL with canvas fallback.
+* [Three.js](https://github.com/mrdoob/three.js) ⭐ 111,000 | 🐛 603 | 🌐 JavaScript | 📅 2026-02-21 - JavaScript 3D library used in many browser games.
+* [Godot](https://github.com/okamstudio/godot) ⭐ 106,899 | 🐛 17,598 | 🌐 C++ | 📅 2026-02-20 - Fully featured, MIT licensed, game engine. It focuses on having great tools, and a visual oriented workflow that can export to PC, Mobile and Web platforms with no hassle. The editor, language and APIs are feature rich, yet simple to learn, allowing you to become productive in a matter of hours.
+* [pixi.js](https://github.com/GoodBoyDigital/pixi.js) ⭐ 46,621 | 🐛 319 | 🌐 TypeScript | 📅 2026-02-13 - Super fast HTML 5 2D rendering engine that uses webGL with canvas fallback.
 * [Phaser](https://github.com/photonstorm/phaser) ⭐ 39,049 | 🐛 101 | 🌐 JavaScript | 📅 2026-02-19 - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
-* [LibGDX](https://github.com/libgdx/libgdx) ⭐ 24,815 | 🐛 330 | 🌐 Java | 📅 2026-02-19 - Desktop/Android/HTML5/iOS Java game development framework.
-* [Cocos2d-x](https://github.com/cocos2d/cocos2d-x) ⭐ 18,944 | 🐛 1,610 | 🌐 C++ | 📅 2025-05-09 - Multi-platform framework for building 2d games, interactive books, demos and other graphical applications. It is based on cocos2d-iphone, but instead of using Objective-C, it uses C++. It works on iOS, Android, Windows Phone, macOS, Windows and Linux.
+* [LibGDX](https://github.com/libgdx/libgdx) ⭐ 24,813 | 🐛 332 | 🌐 Java | 📅 2026-02-19 - Desktop/Android/HTML5/iOS Java game development framework.
+* [Cocos2d-x](https://github.com/cocos2d/cocos2d-x) ⭐ 18,942 | 🐛 1,610 | 🌐 C++ | 📅 2025-05-09 - Multi-platform framework for building 2d games, interactive books, demos and other graphical applications. It is based on cocos2d-iphone, but instead of using Objective-C, it uses C++. It works on iOS, Android, Windows Phone, macOS, Windows and Linux.
 * [Matter.js](https://github.com/liabru/matter-js) ⭐ 18,055 | 🐛 279 | 🌐 JavaScript | 📅 2024-08-17 - Matter.js is a JavaScript 2D rigid body physics engine for the web.
-* [Bgfx](https://github.com/bkaradzic/bgfx#bgfx---cross-platform-rendering-library) ⭐ 16,766 | 🐛 317 | 🌐 C++ | 📅 2026-02-20 - Cross-platform rendering library.
-* [PlayCanvas](https://github.com/playcanvas/engine) ⭐ 14,462 | 🐛 603 | 🌐 JavaScript | 📅 2026-02-16 - 3D WebGL game engine with online toolset.
-* [MonoGame](https://github.com/mono/MonoGame) ⭐ 13,178 | 🐛 723 | 🌐 C# | 📅 2026-02-16 - XNA Implementation for Mono based platforms (supports iOS, Android, Linux, and started work on PS Suite and NaCli ).
-* [Tiled](https://github.com/bjorn/tiled) ⭐ 12,347 | 🐛 752 | 🌐 C++ | 📅 2026-02-19 - Tiled is a general purpose tile map editor. It is meant to be used for editing maps of any tile-based game, be it an RPG, a platformer or a Breakout clone.
+* [Bgfx](https://github.com/bkaradzic/bgfx#bgfx---cross-platform-rendering-library) ⭐ 16,771 | 🐛 317 | 🌐 C++ | 📅 2026-02-20 - Cross-platform rendering library.
+* [PlayCanvas](https://github.com/playcanvas/engine) ⭐ 14,463 | 🐛 605 | 🌐 JavaScript | 📅 2026-02-20 - 3D WebGL game engine with online toolset.
+* [MonoGame](https://github.com/mono/MonoGame) ⭐ 13,180 | 🐛 725 | 🌐 C# | 📅 2026-02-20 - XNA Implementation for Mono based platforms (supports iOS, Android, Linux, and started work on PS Suite and NaCli ).
+* [Tiled](https://github.com/bjorn/tiled) ⭐ 12,351 | 🐛 752 | 🌐 C++ | 📅 2026-02-20 - Tiled is a general purpose tile map editor. It is meant to be used for editing maps of any tile-based game, be it an RPG, a platformer or a Breakout clone.
 * [SFML](https://github.com/LaurentGomila/SFML) ⭐ 11,664 | 🐛 147 | 🌐 C++ | 📅 2026-02-13 - Simple and Fast Multimedia Library.
-* [Ren'py](https://github.com/renpy/renpy) ⭐ 6,228 | 🐛 256 | 🌐 Ren'Py | 📅 2026-02-19 - A Visual Novel Engine, written in python, for both mobile (iOS beta) and desktop platforms.
-* [Turbulenz Engine](https://github.com/turbulenz/turbulenz_engine) ⭐ 4,892 | 🐛 39 | 🌐 TypeScript | 📅 2023-05-28 - HTML5 game engine and server-side APIs available in JavaScript and TypeScript for building and distributing 2D and 3D games.
+* [Ren'py](https://github.com/renpy/renpy) ⭐ 6,231 | 🐛 253 | 🌐 Ren'Py | 📅 2026-02-20 - A Visual Novel Engine, written in python, for both mobile (iOS beta) and desktop platforms.
+* [Turbulenz Engine](https://github.com/turbulenz/turbulenz_engine) ⭐ 4,893 | 🐛 39 | 🌐 TypeScript | 📅 2023-05-28 - HTML5 game engine and server-side APIs available in JavaScript and TypeScript for building and distributing 2D and 3D games.
 * [GamePlay](https://github.com/gameplay3d/GamePlay) ⭐ 4,806 | 🐛 10 | 🌐 C++ | 📅 2025-02-25 - Cross-platform, C++ game framework/engine for creating 2D/3D mobile and desktop games.
 * [Urho3D](https://github.com/urho3d/Urho3D) ⚠️ Archived - Urho3D is a free lightweight, cross-platform 2D and 3D game engine implemented in C++ and released under the MIT license. Greatly inspired by OGRE and Horde3D.
 * [Ammo.js](https://github.com/kripken/ammo.js) ⭐ 4,482 | 🐛 175 | 🌐 C++ | 📅 2024-01-16 - Direct port of the Bullet Physics engine to JavaScript using Emscripten.
-* [JMonkeyEngine](https://github.com/jMonkeyEngine/jmonkeyengine) ⭐ 4,153 | 🐛 254 | 🌐 Java | 📅 2026-02-17 - Cutting edge, cross-platform 3D game engine for adventurous Java developers.
+* [JMonkeyEngine](https://github.com/jMonkeyEngine/jmonkeyengine) ⭐ 4,149 | 🐛 259 | 🌐 Java | 📅 2026-02-17 - Cutting edge, cross-platform 3D game engine for adventurous Java developers.
 * [Cocos2d for iPhone](https://github.com/cocos2d/cocos2d-iphone) ⭐ 4,052 | 🐛 193 | 🌐 Objective-C | 📅 2021-09-06 - Framework for building 2D games, demos, and other graphical/interactive applications for iPod Touch, iPhone, iPad and Mac. It is based on the cocos2d design but instead of using python it, uses objective-C.
-* [Spring](https://github.com/spring/spring) ⭐ 3,873 | 🐛 2 | 🌐 C++ | 📅 2024-03-31 - Real Time Strategy game engine.
+* [Spring](https://github.com/spring/spring) ⭐ 3,874 | 🐛 2 | 🌐 C++ | 📅 2024-03-31 - Real Time Strategy game engine.
 * [Unreal Engine](https://github.com/EpicGames/Signup) ⭐ 3,578 | 🐛 2 | 📅 2024-06-11 - C++ AAA game engine. It isn't completely free, but you can easily get access to the full source code. <https://www.unrealengine.com/>
-* [Crafty](https://github.com/craftyjs/Crafty) ⭐ 3,568 | 🐛 68 | 🌐 JavaScript | 📅 2023-11-04 - JavaScript game library that can help you create games in a structured way.
+* [Crafty](https://github.com/craftyjs/Crafty) ⭐ 3,567 | 🐛 68 | 🌐 JavaScript | 📅 2023-11-04 - JavaScript game library that can help you create games in a structured way.
 * [Atomic Engine](https://github.com/AtomicGameEngine/AtomicGameEngine) ⚠️ Archived - Features 2D and 3D rendering, standards compliant JavaScript, full Player and Editor source on GitHub, Windows & Mac Editors, with deployment to Windows, Mac, WebGL, Android, and iOS from the editor.
 * [Torque 3D](https://github.com/GarageGames/Torque3D) ⭐ 3,366 | 🐛 372 | 🌐 C++ | 📅 2022-04-03 - MIT Licensed version of Torque 3D from GarageGames.
 * [Cocos2d for HTML5](https://github.com/cocos2d/cocos2d-HTML5) ⭐ 3,236 | 🐛 251 | 🌐 JavaScript | 📅 2024-01-10 - Cocos2d for Web Browsers. Built using JavaScript.
-* [Oimo.js](https://github.com/lo-th/Oimo.js) ⭐ 3,158 | 🐛 49 | 🌐 JavaScript | 📅 2021-07-08 - Lightweight 3d physics engine for JavaScript.
+* [Oimo.js](https://github.com/lo-th/Oimo.js) ⭐ 3,157 | 🐛 49 | 🌐 JavaScript | 📅 2021-07-08 - Lightweight 3d physics engine for JavaScript.
 * [Starling](https://github.com/Gamua/Starling-Framework) ⭐ 3,025 | 🐛 98 | 🌐 ActionScript | 📅 2026-01-05 - ActionScript 3 library that mimics the conventional Flash display tree architecture, can be deployed to mobile devices (iOS, Android), the desktop (Windows, macOS), and to the browser (via the Flash plugin).
 * [CutJavaScript](https://github.com/piqnt/cutjs) ⭐ 2,543 | 🐛 8 | 🌐 TypeScript | 📅 2026-02-08 - Lightweight and fast 2D HTML5 rendering engine for cross-platform game development.
 * [Chipmunk Physics](https://github.com/slembcke/Chipmunk-Physics) ⭐ 2,372 | 🐛 68 | 🌐 C | 📅 2026-01-08 - Simple, lightweight, fast and portable 2D rigid body physics library written in C.
 * [HaxeFlixel](https://github.com/HaxeFlixel/flixel) ⭐ 2,164 | 🐛 271 | 🌐 Haxe | 📅 2026-02-19 - Free, cross-platform 2D game engine powered by Haxe and OpenFL.
 * [Allegro 5](https://github.com/liballeg/allegro5) ⭐ 2,069 | 🐛 384 | 🌐 C | 📅 2026-02-13 - C++ libraries to make 2D games(graphics, sound, etc.).
-* [Evennia MUD/MU\* Creation System](https://github.com/evennia/evennia) ⭐ 1,998 | 🐛 125 | 🌐 Python | 📅 2026-02-15 - Library for creating online multiplayer text games (MUD, MUSH, MUX, MUCK, MOO etc) in pure Python.
-* [osu-framework](https://github.com/ppy/osu-framework) ⭐ 1,897 | 🐛 463 | 🌐 C# | 📅 2026-02-19 - A game framework written with osu! in mind.
-* [Torque 2D](https://github.com/TorqueGameEngines/Torque2D) ⭐ 1,527 | 🐛 13 | 🌐 C | 📅 2025-10-22 - MIT Licensed version of Torque 2D from GarageGames.
+* [Evennia MUD/MU\* Creation System](https://github.com/evennia/evennia) ⭐ 2,000 | 🐛 125 | 🌐 Python | 📅 2026-02-15 - Library for creating online multiplayer text games (MUD, MUSH, MUX, MUCK, MOO etc) in pure Python.
+* [osu-framework](https://github.com/ppy/osu-framework) ⭐ 1,897 | 🐛 462 | 🌐 C# | 📅 2026-02-20 - A game framework written with osu! in mind.
+* [Torque 2D](https://github.com/TorqueGameEngines/Torque2D) ⭐ 1,529 | 🐛 13 | 🌐 C | 📅 2025-10-22 - MIT Licensed version of Torque 2D from GarageGames.
 * [OpenRTS](https://github.com/methusalah/OpenRTS) ⭐ 1,464 | 🐛 43 | 🌐 Java | 📅 2025-09-05 - Real-Time Strategy game 3D engine coded in java 7.
 * [Kiwi.js](https://github.com/gamelab/kiwi.js) ⭐ 1,454 | 🐛 75 | 🌐 JavaScript | 📅 2022-12-31 - Blazingly fast mobile & desktop browser based HTML5 game framework. It uses CocoonJavaScript for publishing to the AppStore.
 * [Duality](https://github.com/AdamsLair/duality) ⚠️ Archived - 2D Game Development Framework.
-* [Ikemen GO](https://github.com/ikemen-engine/Ikemen-GO/) ⭐ 1,257 | 🐛 124 | 🌐 Go | 📅 2026-02-19 - An open-source fighting game engine that supports MUGEN resources. Written in Go.
+* [Ikemen GO](https://github.com/ikemen-engine/Ikemen-GO/) ⭐ 1,257 | 🐛 128 | 🌐 Go | 📅 2026-02-20 - An open-source fighting game engine that supports MUGEN resources. Written in Go.
 * [LibRocket](https://github.com/librocket/librocket) ⭐ 1,177 | 🐛 82 | 🌐 C++ | 📅 2021-03-26 - C++ user interface package based on the HTML and CSS standards. It is designed as a complete solution for any project's interface needs.
-* [GemRB](https://github.com/gemrb/gemrb) ⭐ 1,157 | 🐛 200 | 🌐 C++ | 📅 2026-02-18 - Cross-platform implementation of Bioware's Infinity Engine.
+* [GemRB](https://github.com/gemrb/gemrb) ⭐ 1,157 | 🐛 200 | 🌐 C++ | 📅 2026-02-20 - Cross-platform implementation of Bioware's Infinity Engine.
 * [Flixel](https://github.com/AdamAtomic/flixel) ⭐ 1,138 | 🐛 75 | 🌐 ActionScript | 📅 2015-11-05 - Game-making library written entirely in ActionScript 3.
 * [QICI Engine](https://github.com/qiciengine/qiciengine) ⭐ 896 | 🐛 7 | 📅 2016-08-08 - Free JavaScript game engine library with a web-based comprehensive suite of toolset for making HTML5 games.
 * [Oxygine](https://github.com/oxygine/oxygine-framework) ⭐ 809 | 🐛 36 | 🌐 C++ | 📅 2024-06-25 - C++ engine and framework for 2D games on iOS, Android, Windows, Linux and Mac.
 * [panda.js](https://github.com/ekelokorpi/panda.js) ⭐ 758 | 🐛 16 | 🌐 JavaScript | 📅 2020-07-25 - Free HTML5 game engine for mobile and desktop with Canvas and WebGL rendering.
 * [Solarus](https://github.com/christopho/solarus) ⚠️ Archived - An Action-RPG game engine written in C++.
 * [Cocos2d for Android](https://github.com/ZhouWeikuan/cocos2d) ⭐ 601 | 🐛 49 | 🌐 Java | 📅 2012-10-16 - Cocos2d for Android, based on cocos2d-android-0.82, and now ported from cocos2d-iphone 0.99.4.
-* [LibSDL2pp](https://github.com/libSDL2pp/libSDL2pp) ⭐ 591 | 🐛 43 | 🌐 C++ | 📅 2025-03-18 - C++11 bindings for [SDL 2.0](http://libsdl.org/).
+* [LibSDL2pp](https://github.com/libSDL2pp/libSDL2pp) ⭐ 592 | 🐛 43 | 🌐 C++ | 📅 2025-03-18 - C++11 bindings for [SDL 2.0](http://libsdl.org/).
 * [GameJavaScript](https://github.com/gamejs/gamejs) ⭐ 469 | 🐛 32 | 🌐 JavaScript | 📅 2020-07-29 - GameJs is a JavaScript library for writing 2D games or other interactive graphic applications for the HTML Canvas inspired by PyGame.
 * [ChoiceScript](https://github.com/dfabulich/choicescript) ⭐ 448 | 🐛 98 | 🌐 JavaScript | 📅 2026-01-26 - A language/engine for developing text-based multiple-choice interactive novels.
 * [Dash](https://github.com/Circular-Studios/Dash) ⭐ 428 | 🐛 33 | 🌐 D | 📅 2020-12-18 - Free and open 3D game engine written in D.
@@ -548,17 +548,17 @@ A selection of major game studios, publishers, etc. using GitHub:
 
 ## Maps/Hacks/Plugins/Utilities/All of the Things™
 
-* [OpenEmu](https://github.com/OpenEmu/OpenEmu) ⭐ 17,368 | 🐛 406 | 🌐 Swift | 📅 2025-10-22 - Project to bring game emulation to macOS as a first class citizen.
+* [OpenEmu](https://github.com/OpenEmu/OpenEmu) ⭐ 17,370 | 🐛 406 | 🌐 Swift | 📅 2025-10-22 - Project to bring game emulation to macOS as a first class citizen.
 * [Stats.js](https://github.com/mrdoob/stats.js) ⭐ 9,092 | 🐛 22 | 🌐 JavaScript | 📅 2024-10-11 - JavaScript performance monitor.
 * [libfreenect](https://github.com/OpenKinect/libfreenect) ⭐ 3,762 | 🐛 146 | 🌐 C | 📅 2024-08-05 - Drivers and libraries for the Xbox Kinect device on WIndows, Linux, and macOS.
-* [Itch](https://github.com/itchio/itch) ⭐ 2,660 | 🐛 509 | 🌐 TypeScript | 📅 2026-02-19 - An electron cross-platform game downloader, installer, and library manager for itch.io written in TypeScript.
+* [Itch](https://github.com/itchio/itch) ⭐ 2,659 | 🐛 502 | 🌐 TypeScript | 📅 2026-02-21 - An electron cross-platform game downloader, installer, and library manager for itch.io written in TypeScript.
 * [Brood War API](https://github.com/bwapi/bwapi) ⭐ 1,649 | 🐛 128 | 🌐 C++ | 📅 2023-06-13 - C++ framework to interact with the Real Time Strategy (RTS) game Starcraft: Broodwar.
 * [Greenworks](https://github.com/greenheartgames/greenworks) ⭐ 1,583 | 🐛 64 | 🌐 C++ | 📅 2025-11-23 - A Node.js addon allowing you to integrate HTML5 game with Steamworks.
 * [Bfxr](https://github.com/increpare/bfxr) ⭐ 1,023 | 🐛 10 | 🌐 ActionScript | 📅 2025-04-17 - Flash + AIR sound effects generator. Based on Sfxr.
-* [Mudlet](https://github.com/Mudlet/Mudlet) ⭐ 860 | 🐛 569 | 🌐 C++ | 📅 2026-02-20 - A cross-platform, open source, and super fast MUD (text-only MMORPGs) client with scripting in Lua.
+* [Mudlet](https://github.com/Mudlet/Mudlet) ⭐ 860 | 🐛 572 | 🌐 C++ | 📅 2026-02-20 - A cross-platform, open source, and super fast MUD (text-only MMORPGs) client with scripting in Lua.
 * [JavaScript Breakouts](https://github.com/city41/breakouts) ⚠️ Archived - Collection of JavaScript engine implementations of Breakout.
 * [World of Warcraft API Docs](https://github.com/Blizzard/api-wow-docs) ⭐ 532 | 🐛 7 | 📅 2019-06-21 - Public documentation for the RESTful web service provided as part of the World of Warcraft community site.
-* [Leaderboard(Ruby)](https://github.com/agoragames/leaderboard) ⭐ 479 | 🐛 8 | 🌐 Ruby | 📅 2021-03-11 - Leaderboards backed by Redis(in Ruby).
+* [Leaderboard(Ruby)](https://github.com/agoragames/leaderboard) ⭐ 480 | 🐛 8 | 🌐 Ruby | 📅 2021-03-11 - Leaderboards backed by Redis(in Ruby).
 * [IodineGBA](https://github.com/taisel/IodineGBA) ⭐ 284 | 🐛 1 | 🌐 JavaScript | 📅 2023-08-17 - GameBoy Advance emulator written entirely in JavaScript and powered by HTML5.
 * [Tassadar](https://github.com/agoragames/tassadar) ⭐ 45 | 🐛 3 | 🌐 Ruby | 📅 2021-03-11 - Starcraft 2 replay parser written in pure Ruby.
 * [Leaderboard(Java)](https://github.com/agoragames/java-leaderboard) ⭐ 25 | 🐛 3 | 🌐 Java | 📅 2021-03-11 - Leaderboards backed by Redis(in Java).
